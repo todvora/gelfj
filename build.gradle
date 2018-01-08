@@ -13,6 +13,7 @@ apply plugin: 'java'
 apply plugin: 'propdeps'
 apply plugin: 'propdeps-maven'
 apply plugin: 'org.dm.bundle'
+apply plugin: 'maven'
 
 group = 'org.graylog2.gelfj'
 sourceCompatibility = 1.5
